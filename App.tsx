@@ -10,7 +10,7 @@ import WebView from "react-native-webview";
 
 function App(): JSX.Element {
 
-  return <WebView source={{ uri: 'https://reactnative.dev/' }} />;
+  return <WebView source={{ uri: 'https://wilson1234567891962.github.io/Andes---ProyectoWebMovil' }} />;
 }
 
 export default App;
